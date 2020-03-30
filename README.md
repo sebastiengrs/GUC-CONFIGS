@@ -1,1 +1,1 @@
-# GUC-CONFIGS
+# GamersUnitedClan | Zombie Escape configurations
