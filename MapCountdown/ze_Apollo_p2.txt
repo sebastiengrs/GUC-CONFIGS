@@ -1,0 +1,14 @@
+0;***Tram Leaving Momentarily***;
+0;***Aux Door Opening In 15 Seconds***;
+45;***Outdoor Tram Starting in 45 Seconds***;
+30;***Outdoor Tram Starting in 30 Seconds***;
+5;***Outdoor Tram Starting in 5 Seconds***;
+20;***Rocket Lift Leaving In 20 Seconds***;
+0;***Zombies can now climb on the side of the rocket lift***;
+30;<Rocket Launch In 30 Seconds>;
+20;<Rocket Launch In 20 Seconds>;
+10;<Rocket Launch In 10 Seconds>;
+5;<Rocket Launch In 5 Seconds>;
+0;<<ROCKET LAUNCHING>>;
+0;<<<Map by Thatguyoverthere>>>;
+5;***Airlock Door Opening In 5 Seconds***;

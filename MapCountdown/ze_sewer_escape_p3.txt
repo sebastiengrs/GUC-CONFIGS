@@ -1,0 +1,9 @@
+0;*** WAIT FOR LIFT ***;
+0;*** LIFT LEAVING ***;
+0;*** HOLD THIS POSITION  ***;
+0;*** HOLD THIS POSITION ***;
+0;*** TRAIN LEAVING ***;
+0;*** USE RADIO TO LAUNCH NUKE ***;
+5;*** NUKE IN 5 SECONDS ***;
+0;*** MAP BY JB_GAMBLE ***;
+0;*** JUMP TO TRAIN ***;

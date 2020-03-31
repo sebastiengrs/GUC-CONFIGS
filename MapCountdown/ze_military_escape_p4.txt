@@ -1,0 +1,14 @@
+0;Map made by Xquality;
+0;Infection system: Online.;
+60;(Base): Helicopter departing after 60 secs.;
+0;Infection detected! locking down.;
+30;(Base): Helicopter departing after 30 secs.;
+0;Preparing scan...;
+15;(Base): Helicopter departing after 15 secs.;
+10;(Base): Helicopter departing after 10 secs.;
+0;(Base): Helicopter departed.;
+0;Infection found! access denied.;
+0;Door jammed! find another way!;
+3;(Base): Elivator leaving in 3 secs.;
+0;(Base): Elivator stuck!;
+0;No infection - access granted.;

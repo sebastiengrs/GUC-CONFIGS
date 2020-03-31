@@ -1,0 +1,14 @@
+0;map made by salem;
+5;the truck will go in 5 secs;
+30;the door will open in 30 seconds;
+20;the security door will open in 20 secs;
+20;*** the hazard door will open in 20 secs ***;
+0;security door has been opened;
+0;the final door will open now;
+0;get safely into the bunker and launch the nuke!;
+30;*** the nerve gas will be enabled in 30 Seconds ***;
+0;***HOLD ZOMBIES BACK! BUNKER DOOR WILL CLOSE SOON! ***;
+15;*** the nerve gas will be enabled in 15 Seconds ***;
+5;**elevator leaving in 5 sec**;
+10;the boat will depart in 10 secs;
+10;gate will open in 10 secs;

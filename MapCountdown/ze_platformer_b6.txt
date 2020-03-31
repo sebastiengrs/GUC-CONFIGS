@@ -1,0 +1,12 @@
+0;Map made by Cuniczek;
+0;Thanks to Enviolinador & Darnias;
+0;Added extra shininess to the coins.;
+0;Some items have spawned on top of safehouses.;
+0;CT flags can now teleport humans back to spawn.;
+0;Zombies have secured a checkpoint.;
+0;You have collected enough coins. Nuke inbound in 70 seconds.;
+0;Proceed to find a safehouse if you want to survive.;
+0;Platforms are now breakable!;
+0;Meteors are raining from the sky!;
+0;You have collected enough coins. Nuke inbound in 60 seconds.;
+0;You have collected enough coins.;

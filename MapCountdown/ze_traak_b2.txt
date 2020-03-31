@@ -1,0 +1,14 @@
+0;*** MAP BY P'A'SS ***;
+30;*** Door opens in 30 seconds ***;
+0;*** KEEP HOLDING***;
+0;*** DOOR IS OPENING***;
+0;*** Elevator is powering up! ***;
+5;*** Elevator leaves in 5 seconds ***;
+0;*** Door should open soon! ***;
+0;*** RESIST ***;
+30;*** Warehouse door opens in 30 seconds ***;
+0;*** DOOR IS OPENING ***;
+0;*** This is the final hold ***;
+30;*** The ship will leave soon! ***;
+0;*** ZOMBIES ON THE SHIP ***;
+0;*** YOU FAIL ***;

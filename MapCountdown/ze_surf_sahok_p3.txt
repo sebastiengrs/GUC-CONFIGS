@@ -1,0 +1,11 @@
+45;**The door will open in 45 seconds. Cover!!**;
+10;**Door is open 10 sec**;
+35;**Elevator is leaving in 35s**;
+5;**Elevator is leaving in 5s**;
+30;**Boat will arrive in 30 seconds**;
+10;** Boss Fight in 10s **;
+5;** Boss Fight in 5s **;
+0;** Nades do more damage **;
+0;** Boss is dead - Escape ! **;
+30;**The door will open in 30 seconds. Cover!!**;
+0;*** You took way too long ! ***;

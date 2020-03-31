@@ -1,0 +1,18 @@
+0;***ze_MindTree***;
+0;***Map by XXMochi/XXPohmian***;
+30;*** 30 ***;
+25;*** 25 ***;
+40;*** 40 ***;
+45;*** 45 ***;
+35;*** 35 ***;
+0;< Barriers of The Mind >;
+0;<Mind Nightmare>;
+0;<The Minds Ego>;
+0;<Super Ego>;
+0;<Fell In Love>;
+0;<Mind Fruit>;
+0;<Death Drive>;
+0;<Mind Fruits>;
+0;<Rejection>;
+0;< Defend >;
+0;< Mind by XXMochi/XXPohmian >;

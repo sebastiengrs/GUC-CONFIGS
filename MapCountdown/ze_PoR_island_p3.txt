@@ -1,0 +1,11 @@
+15;** Door opening in 15 sec. **;
+15;** Door opening in 15 sec **;
+10;** Second door opening in 10 seconds **;
+30;**Elevator leaving in 30 sec **;
+20;** Boat leaving in 20 sec **;
+25;** Door opening in 25 sec **;
+20;** Door opening in 20 sec **;
+50;** Final door opening in 50 sec!!! **;
+0;** Be ready! Zombies in bunker are coming!!! **;
+0;**USE THE BUTTON IN THE CONTROL PANNEL!**;
+30;** Bridge will be destroyed after 30 sec .**;

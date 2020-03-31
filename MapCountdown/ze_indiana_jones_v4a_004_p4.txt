@@ -1,0 +1,10 @@
+0;*** Map by AERIS.004 ***;
+5;*** Door will close in 5 secs ***;
+0;*** Door will open in 2secs ***;
+20;*** Door is opening in 20secs ***;
+5;*** Door is opening in 5secs ***;
+0;*** 1st teleport enabled ***;
+30;*** Trains leaving in 30secs***;
+0;*** Trains are leaving  ***;
+0;*** 2nd teleport enabled ***;
+0;*** 3rd teleport enabled ***;

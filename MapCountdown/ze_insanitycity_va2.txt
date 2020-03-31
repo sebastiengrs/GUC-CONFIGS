@@ -1,0 +1,3 @@
+30;***Door Open in 30secs.***;
+34;***Door Open in 34secs.***;
+30;***Door Breaks in 30secs.***;

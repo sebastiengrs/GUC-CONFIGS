@@ -1,0 +1,17 @@
+20;>>First door opening in 20 seconds<<;
+40;>>Door opening in 40 seconds<<;
+40;>>Door will open in 40 sec<<;
+25;>>Door will open in 25 sec<<;
+25;>>Tram leaves in 25 sec<<;
+5;>>Tram leaves in 5 sec<<;
+30;>>Door opens in 30 sec<<;
+5;>>Door opens in 5 sec<<;
+0;>>Aztec dragon's head has been picked up<<;
+10;>>Its fire flames 10 seconds in total<<;
+45;>>Door opens in 45 seconds<<;
+15;>>Door will open in 15 sec<<;
+10;>>Door opens in 10 seconds<<;
+5;>>Door opens in 5 seconds<<;
+0;>>Run for the ancient vault!<<;
+30;>>Final door opens in 30 seconds<<;
+0;>>Resist until it closes<<;

@@ -1,0 +1,16 @@
+0;***ze_LightNight***;
+0;***respect mg_Azure***;
+0;***Map by XXMochi/XXPohmian***;
+0;***The way is coming...***;
+30;***Floor will break in 30seconds***;
+0;*** Admin Selected HARD Mode ***;
+80;***Survive for 80seconds***;
+40;*** Defend for 40seconds ***;
+0;<A player picked up>;
+35;***The Elevator will move in 35seconds***;
+45;** Last defend 45 seconds **;
+0;*** Admin Selected NORMAL Mode ***;
+0;*** The box is coming.... ***;
+0;*** The box escaped.... ***;
+40;*** Defend 40seconds ***;
+0;*** E N D ***;

@@ -1,0 +1,14 @@
+0;Level 1;
+0;Map by j0ueurnul;
+25;Hold here 25 seconds;
+20;Hold here 20 seconds;
+30;Hold here 30 seconds;
+40;Hold here 40 seconds;
+15;Hold here 15 seconds;
+0;YOU WON LEVEL 1;
+0;Level 2;
+0;YOU WON LEVEL 2;
+0;Level 3;
+35;Hold here 35 seconds;
+0;YOU WON LEVEL 3;
+0;Drift Mode;

@@ -1,0 +1,16 @@
+0;**Special thanks to Jewdice for particles and 3D Skybox**;
+0;**All Snipers and Negevs are restricted**;
+0;**Optional quest**;
+0;**Activate all Monoliths**;
+0;**Zombie heal has been picked**;
+0;**A monolith has been activated**;
+0;**Two monliths are in different sides**;
+0;**We should split**;
+0;**Zombie teleport in 10 seconds**;
+0;**Zombie freeze has been picked**;
+0;**All monoliths were activated**;
+0;**Extra hp will be given at the end of the map**;
+0;**Zombie speed has been picked**;
+0;**Don't move**;
+0;**Reach the final platform and defend**;
+0;**Defend here zombies will spawn at the other side**;

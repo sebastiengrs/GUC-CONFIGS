@@ -1,0 +1,14 @@
+30;**Truck 2 is leaving in 30 seconds**;
+30;**Truck 1 is leaving in 30 seconds**;
+0;**Calling US Army....**;
+0;**Nuke has been launched!**;
+50;**Bunker doors will open in 50 seconds**;
+30;**Bunker doors are opening in 30 seconds**;
+15;**Bunker doors are opening in 15 seconds**;
+0;**Bunker doors are now open!**;
+40;**Impact in 40 seconds**;
+10;**Impact in 10 seconds**;
+15;**Boat 1 is leaving in 15 seconds**;
+0;**Map made by: Westsid3r & Snowy**;
+20;**Boat 2 is leaving in 20 seconds**;
+0;**IMPACT!**;

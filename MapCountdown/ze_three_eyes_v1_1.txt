@@ -1,0 +1,10 @@
+0;**Thanks to Airvulpes for the textures**;
+0;**Special thanks to Jewdice for particles work**;
+0;**Special thanks to sG/UNLOZE/ZRAGE/GFL/PSE servers for testing**;
+0;**Special thanks to Moltard and Soft Serve**;
+0;**Thanks to Connor(EasterLee) server for testing**;
+0;**Wait here for the moving platform**;
+0;**Stay on the Cube**;
+0;**Pick a platform**;
+0;**Zombies are comming**;
+0;**Wait until the teleport activates**;

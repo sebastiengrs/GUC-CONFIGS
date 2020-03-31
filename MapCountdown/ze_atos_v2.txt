@@ -1,0 +1,16 @@
+0;<--Map Made By Color-->;
+1;<--Trip 1-->;
+0;<--Put on your headphone and enjoy trips-->;
+10;<--Hold for 10s-->;
+5;<--5s left-->;
+15;<--Hold for 15s-->;
+30;<--Hold for 30s-->;
+30;<--Elevator will start in 30s-->;
+20;<--Hold for 20s-->;
+5;<--Elevator will start in 5s-->;
+30;<--Paper plane will take off in 30s-->;
+0;<--Trip finished-->;
+2;<--Trip 2-->;
+0;<--Find and use wall item to spawn a road-->;
+25;<--Hold for 25s-->;
+0;<--Zombies are in the room-->;
