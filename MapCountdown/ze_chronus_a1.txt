@@ -1,0 +1,6 @@
+30;*** 30 seconds left ***;
+15;*** 15 seconds left ***;
+5;*** 5 seconds left ***;
+25;*** 25 seconds left ***;
+35;*** 35 seconds left ***;
+30;*** Hold 30 seconds ***;

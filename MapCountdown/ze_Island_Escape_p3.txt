@@ -1,0 +1,6 @@
+70;*** Rescue boats inbound ***;
+35;*** Volcanic eruption imminent. 40 seconds to boat departure ***;
+15;*** Volcanic eruption imminent. 20 seconds to boat departure ***;
+5;*** Volcanic eruption imminent. 10 seconds to boat departure ***;
+0;*** Volcanic eruption imminent. 5 seconds to boat departure ***;
+0;*** Volcanic eruption in 10 seconds ***;

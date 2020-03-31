@@ -1,0 +1,11 @@
+0;*** Somethings will happen ***;
+5;< 5 >;
+35;< We found a cube 35sec >;
+0;< The gate will open soon. >;
+30;< 30 >;
+35;< 35 >;
+45;< 45 >;
+20;< 20 >;
+0;< The box is coming...>;
+0;< The box escaped >;
+0;< E.N.D>;

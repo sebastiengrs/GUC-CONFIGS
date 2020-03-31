@@ -1,0 +1,10 @@
+0;^^^ Map By: BillSmauz ^^^;
+10;*** Lift Starts in 10 Seconds ***;
+5;*** Armored Vehicle Departing in 5 Seconds ***;
+172;*** Dropship Arrives in 2 Minutes ***;
+0;*** Nuke Immediate After Dropship Departure ***;
+60;*** Dropship Arrival in 1 Minute ***;
+20;*** Dropship Arrival in 20 ***;
+0;*** Dropship is Here ***;
+30;*** Dropship Departure in 30 Seconds ***;
+10;*** Dropship Departure in 10 Seconds ***;

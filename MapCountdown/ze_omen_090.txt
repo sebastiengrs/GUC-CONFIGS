@@ -1,0 +1,8 @@
+0;| PROLOGUE |;
+10;| 10 SECONDS |;
+30;| 30 SECONDS |;
+20;| 20 SECONDS |;
+40;| 40 SECONDS |;
+0;| PASSAGE 2 |;
+0;| +500 |;
+3;| PASSAGE 3 |;

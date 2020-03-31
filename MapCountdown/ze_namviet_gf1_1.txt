@@ -1,0 +1,12 @@
+4;<< Map made by Lup4n. >>;
+0;<< Follow the pipe, to dodge anti personal mine!!! >>;
+0;<< Cover here! >>;
+0;<< Chopper and Boat are ready to leave! >>;
+0;<< Defend until the door breaks! >>;
+5;<< Door will break in 5 seconds. >>;
+0;<< Train door opens in few seconds >>;
+0;<< Defend this spot !!! >>;
+0;<< Fall Back !!! >>;
+60;<< Helicopter take off in 60 seconds. >>;
+0;<< Cover bridge and cars!!! >>;
+5;<< Helicopter take off in 5 seconds. >>;

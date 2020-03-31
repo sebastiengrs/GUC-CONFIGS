@@ -1,0 +1,17 @@
+0;*** Angry sun and chainchomps hate AFKS;
+0;*** Bowser and his minions are attacking!! ***;
+0;*** Right Ladder Wall opens in 5 seconds***;
+0;*** Left Ladder Wall opens in 5 seconds***;
+0;*** Middle Wall opens in 10 seconds***;
+30;***BlockWall Breaks in 30 seconds!***;
+0;***BlockWall is open***;
+20;*** Thomp will open in 20 seconds!!***;
+20;*** Star Door opens in 20 seconds ***;
+10;*** Star Door opens in 10 seconds ***;
+0;*** Star Door open ***;
+0;*** Angry Sun will scorch everything in his reach in 90 seconds!! ***;
+30;*** Clouds will raise in 30 seconds ***;
+10;*** Clouds will raise in 10 seconds ***;
+30;*** Scorch in 30 seconds!!***;
+0;*** Get to the top of the tower before it is too late!! ***;
+0;*** Left Ladder wall opens in 5 seconds***;

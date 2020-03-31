@@ -1,0 +1,5 @@
+120;You will be teleported in 2 minutes.;
+0;Map created by warluthy.;
+120;Defend the House for 2 minutes.;
+20;Doors will OPEN in 20 seconds.;
+50;Second Doors will OPEN in 50 seconds.;

@@ -1,0 +1,10 @@
+35;** The gate will open in 35 seconds **;
+0;** Get Ready **;
+0;** Run! **;
+0;** Looks like the Van is broken **;
+0;** Generator override enabled **;
+0;** Power has been lost to Jurassic Park **;
+85;** Call the mainland - Tell them to send the damn helicopter! **;
+0;** SECURE THE AREA **;
+0;** Get ready to move! **;
+0;** Nerve gas released **;

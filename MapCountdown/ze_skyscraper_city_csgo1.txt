@@ -1,0 +1,11 @@
+20;>>Door will open in 20 sec<<;
+0;>>Go!<<;
+15;>>Metal Gate opens in 15 sec<<;
+0;>>The Gate is open!<<;
+20;>>Tram departs in 20 sec<<;
+0;>>Press the button at the door!l<<;
+0;>>Stair door opens in 15 sec<<;
+25;>>Door will open in 25 sec<<;
+0;>>Door open. Run!<<;
+15;>> Hold for 15 sec!<<;
+45;>>Train will leave in 45 sec<<;

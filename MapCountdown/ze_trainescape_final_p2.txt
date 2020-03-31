@@ -1,0 +1,12 @@
+0;*** Make your way to train station and leave the city. ***;
+0;*** Trains are leaving in one minute. ***;
+30;*** Trains are leaving in 30s. ***;
+0;*** Trains are leaving!!! ***;
+30;*** Nuke will be launched in 30s. ***;
+8;*** Generator room will open in 8s. ***;
+5;.. Train station gate open in 5 seconds!!;
+0;*** Heli is leaving in one minute. ***;
+30;*** Heli is leaving in 30s. ***;
+0;*** Heli is leaving!!! ***;
+2;*** Generator room will close in 2s. ***;
+10;.. Train station gate close in 10 seconds!!;

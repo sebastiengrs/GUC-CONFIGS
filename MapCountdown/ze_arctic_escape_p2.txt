@@ -1,0 +1,9 @@
+0;***** Escape Boat 1 Is Leaving In 10 Seconds *****;
+0;***** Escape Ski Lift 1 Is Leaving In 10 Seconds *****;
+0;***** Escape Ski Lift 2 Is Leaving In 10 Seconds *****;
+0;***** Escape Boat 3 Is Leaving in 10 Seconds *****;
+0;***** Escape Boat 4 Is Leaving in 10 Seconds *****;
+0;***** Escape Boat 2 Is Leaving In 10 Seconds *****;
+0;***** The Oil Rig Has Been Reached *****;
+90;***** Nuke Squad Will Arrive in 90 Seconds *****;
+0;***** Nuke Squad Is Here *****;

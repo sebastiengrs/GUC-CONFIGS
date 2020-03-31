@@ -1,0 +1,10 @@
+0;>>Map by prof_yaffle<<;
+0;>>Map Modified by LeGrem<<;
+15;**Left Elevator Leaving in 15s**;
+15;**Right Elevator Leaving in 15s**;
+90;**Train departs in 90 seconds**;
+60;**Train departs in 60 seconds**;
+30;**Train departs in 30 seconds**;
+15;**Train departs in 15 seconds**;
+0;**Train depart**;
+0;>>PRESS THE BUTTON TO START THE TRAIN<<;

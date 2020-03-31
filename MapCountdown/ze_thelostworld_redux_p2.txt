@@ -1,0 +1,15 @@
+0;** THE PLANE IS GOING TO CRASH **;
+0;** BRACE YOURSELVES **;
+0;** Follow the game trails through the island interior to reach Embryonic Research B. **;
+0;** Zodiac departing for island interior. **;
+0;** BRIDGE CHARGE DETONATED -- JUMP YOU FOOLS! **;
+0;** Push the C4 between the barrels **;
+0;**AFK TELE 20 SECONDS**;
+0;**AFK TELE 10 SECONDS**;
+0;** Power has been restored to Isla Sorna **;
+0;** Satellite link established. Phone access enabled. **;
+0;** Raptor nest has been disturbed! **;
+60;** InGen has received your distress signal. A109 inbound for extraction in 60... **;
+0;** Laboratory Security online. Locking in 10 seconds... **;
+0;** C4 planted! **;
+0;** There's no power. We're screwed! **;

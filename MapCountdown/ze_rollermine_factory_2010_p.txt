@@ -1,0 +1,15 @@
+20;**for some reason the door is delayed. door 2 will open in 20 seconds**;
+30;**seems like the door is stuck. we will fix that in 30 seconds**;
+0;***door 2 is opening***;
+0;***door 1 is opening***;
+60;**holy shit! looks like the store is gonna fly away in 60 seconds**;
+0;**btw a wtf boom nuke is launched so i would suggest getting on the... uhmm... thing**;
+15;**15 seconds!! :O**;
+5;**5 seconds!!!!! :O  OMFG**;
+0;**the thing has taken off!!**;
+0;***map made by denn15***;
+30;**the owner of the factory has decided that door 3 will open in 30 seconds (dont know why)**;
+0;*** door 3 is opening***;
+20;**because of some security bullshit main door will open in 20 seconds**;
+0;*** main door is opening***;
+0;**securitybullshit.exe is malfunctioning. just press e to open the next door**;

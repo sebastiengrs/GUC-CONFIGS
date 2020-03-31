@@ -1,0 +1,11 @@
+0;ZE remake of the map by † Aleksander | Nen |;
+30;Defend here 30 seconds!;
+0;Find the way out!;
+0;Split here! We have to defend two sides!;
+0;Someone have to go down!;
+30;Defend 30 seconds!;
+0;Defend and wait for sponge!;
+0;Sponge is moving!;
+0;FALL BACK!;
+0;WE DID IT!;
+0;Stove button has been pressed!;

@@ -1,0 +1,15 @@
+0;*** ze_highest_to_lowest ***;
+0;*** Map created by thas ***;
+0;*** You are in the highest building ***;
+0;*** Try to go to lowest building ! ***;
+15;*** Defend for 15 seconds ***;
+0;*** Remaining buildings : 6 ***;
+30;*** Defend for 30 seconds ***;
+0;*** Remaining buildings : 5 ***;
+0;*** Remaining buildings : 4 ***;
+0;*** Remaining buildings : 3 ***;
+35;*** Defend for 35 seconds ***;
+0;*** Remaining buildings : 2 ***;
+0;*** Remaining buildings : 1 ***;
+45;*** Final Defend ! Defend for 45 seconds ! ***;
+0;*** Humans Win ! ***;

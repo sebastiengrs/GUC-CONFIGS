@@ -1,0 +1,14 @@
+0;*** Map by Soft Serve ***;
+45;*** 45 seconds ***;
+0;*** Red-Cyan has been acquired ***;
+15;*** 15 seconds ***;
+5;*** 5 seconds ***;
+0;*** Blue-Yellow has been acquired ***;
+0;*** Chromatic Heal has been acquired ***;
+0;*** Green-Magenta has been acquired ***;
+3;*** 3 ***;
+2;*** 2 ***;
+1;*** 1 ***;
+0;*** TBC ***;
+0;*** Round failed! Zombies have reached the objective! ***;
+0;RESTART SERVER NOW;

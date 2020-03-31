@@ -1,0 +1,11 @@
+0;Defend, the door open soon !;
+0;Fall back !;
+0;Door its open !;
+0;The Train leave soon !;
+10;The Train leave in 10 seconds !;
+0;Jump in train !;
+0;Dont touch drilling device when it is on work !!!;
+0;Fall back to elevator !;
+0;Defend and wait until boats leave !;
+0;Zombie teleport in 5 seconds;
+5;Boats leave in 5 seconds !;

@@ -1,0 +1,18 @@
+0;---***This map will mute your sound if you are outside the lunar base***---;
+30;***Defend for 30 seconds!***;
+10;***10 seconds!***;
+0;***Defense 1 is Open again***;
+0;***Keep Running!***;
+0;***Do not look back!***;
+45;***Defend for 45 seconds!***;
+15;***15 seconds!***;
+0;***Get to the Lunar Vehicle!***;
+10;***Lunar vehicle leaves in 10!***;
+0;***Lunar vehicle is leaving!***;
+0;***Defence 2 is Open again***;
+90;**Space Ship leaves in 90 seconds!**;
+60;**Just 60 more seconds!**;
+30;**Just 30 more seconds!**;
+15;**15 seconds left!**;
+0;**Blast Doors have been override!**;
+0;**Spaceship is leaving now!**;

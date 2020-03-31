@@ -1,0 +1,9 @@
+30;>Door will break in 30 sec<;
+30;>Wing will break in 30 sec<;
+10;>Wing will break in 10 sec<;
+30;>Bars will break in 30 sec<;
+60;>Boat leaving in 60 sec<;
+0;>Get in the boat!!!<;
+0;> Use the console to launch nuke <;
+50;> NUKE exploding in 50 sec<;
+10;> NUKE exploding in 10 sec<;

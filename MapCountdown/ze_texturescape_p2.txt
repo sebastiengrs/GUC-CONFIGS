@@ -1,0 +1,11 @@
+15;*** Platforms will begin rising in 15 seconds! ***;
+0;*** Get in the center! ***;
+0;*** Get going before the platform breaks! Hurry! ***;
+20;*** Wall breaks in 20 seconds. ***;
+0;*** Move! ***;
+15;*** Slowpoke teleport in 15 seconds.***;
+20;*** Second teleport in 20 seconds! Don't stay behind. ***;
+50;*** Final glass window will open in 50 seconds... ***;
+15;*** Glass window is opening in 15 seconds. ***;
+5;*** Glass window is opening in 5 seconds! Get ready! ***;
+10;*** Deadly gas launched! 10 seconds until glass door is sealed! ***;

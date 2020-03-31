@@ -1,0 +1,12 @@
+10;>>> DEFEND 10s <<<;
+0;>>> FALL BACK <<<;
+30;>>> DEFEND 30s <<<;
+0;>>> ZOMBIES TP <<<;
+23;>>> DEFEND 23s <<<;
+20;>>> DEFEND 20s <<<;
+0;GO LEFT;
+0;ZOMBIES TP;
+0;GO UP!;
+0;DEFEND/NUKE - SOON;
+20;>>> DEFEND/NUKE 20s <<<;
+0;NUKE...;

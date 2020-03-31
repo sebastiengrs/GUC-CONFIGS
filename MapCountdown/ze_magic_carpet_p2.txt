@@ -1,0 +1,3 @@
+0;*** Map by Soft Serve ***;
+15;*** Carpet is leaving in 10 seconds ***;
+0;***Map ported by Et3rnity***;

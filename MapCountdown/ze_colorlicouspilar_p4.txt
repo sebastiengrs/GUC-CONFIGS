@@ -1,0 +1,10 @@
+20;***Defend for 20secs***;
+50;***Prefinal Hold 50secs***;
+0;***Zombies teleporting in 15 secs. Get ready.***;
+0;***Zombies teleporting in 10 secs!***;
+0;***Zombies teleporting in 5 secs!!!***;
+0;***ZOMBIES TELEPORTED! COVER ALL THREE SIDES!***;
+0;***RUUUUUUUUUN!!!***;
+0;***RUN INTO THE HOLE!***;
+35;***Wait some more secs***;
+0;***Btw. Unlimited ammo time :3***;
