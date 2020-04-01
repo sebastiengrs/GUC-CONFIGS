@@ -1,14 +1,14 @@
-15;Warping all players to Siberia in 15 seconds.;
+0;Warping all players to Siberia in 15 seconds.;
 0;Objective. Find and destroy the source of the outbreak.;
 30;Overriding security breach 30 seconds;
 10;10 seconds left;
 0;Door is now open. Get inside the dam!;
 0;Zombie spawns are advancing in 20 seconds;
-0;Reducing steam pressure 10 seconds;
+10;Reducing steam pressure 10 seconds;
 0;Steam pressure at 66%;
 0;Proximity mine obtained!;
 0;The promixity mine can be used every 24 seconds.;
-0;Dam door closing in 10 seconds;
+10;Dam door closing in 10 seconds;
 0;Steam pressure at 33%;
 0;Steam pressure at 0%;
 0;Zombie spawns advancing in 15 seconds;
