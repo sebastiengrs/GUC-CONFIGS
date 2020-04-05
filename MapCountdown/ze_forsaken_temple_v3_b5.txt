@@ -137,3 +137,6 @@
 0;** Nuke is incoming **;
 0;** Thanks for playing **;
 0;** You are too slow! Boss enrage soon! **;
+35;** Maze exit is opening in 35s **;
+0;** Zombie items are temporary disabled **;
+0;** Zombie items can be used again **;

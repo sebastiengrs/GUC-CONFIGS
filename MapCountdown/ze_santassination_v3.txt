@@ -415,3 +415,4 @@
 0;^That was the stupidest thing i've ever heard as a map;
 0;Hey there everyone, you should totally send Luffaren some hot nudes ASAP!;
 0;Everyone should really consider sending Luffaren some nudes;
+0;^Wtf are you even talking about?;

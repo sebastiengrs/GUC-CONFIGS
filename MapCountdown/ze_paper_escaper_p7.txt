@@ -189,3 +189,4 @@
 0;*ZE_PAPER_ESCAPER BY ENVIOLINADOR*;
 0;*** Thank you for playing this map ***;
 0;*** MAP WILL NOW RESET TO NORMAL ***;
+35;*Garage door opening in 35 seconds*;
