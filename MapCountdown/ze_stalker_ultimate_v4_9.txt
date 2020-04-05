@@ -115,3 +115,4 @@
 0;**BLOWOUT HAPPENNED**;
 5;**STAGE 5**WIN OR DIE;
 0;**Controller was picked up**;
+0;**There are zombies in. The level is failed.**;

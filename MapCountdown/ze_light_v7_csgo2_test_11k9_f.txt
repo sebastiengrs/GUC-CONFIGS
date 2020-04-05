@@ -21,3 +21,16 @@
 5;>>> DEFEND 5s <<<;
 255;Special Thanks: ricca2554;
 0;>>> VERY FAST TP ZOMBIES <<<;
+0;>>> Zombies TP <<<;
+15;>>> DEFEND 15s <<<<;
+20;>>> DEFEND 20s <<<;
+0;>>> ZOMBIES TP SOON <<<;
+0;>>> GO LEFT <<<;
+15;>>> DEFEND 15s <<<;
+0;>>> TP zombies <<<;
+0;>>> ZOMBIES GO! <<<;
+10;>>> DEFEND 10s <<<;
+0;>>> use nades and FALL BACK <<<;
+0;>>> ERROR <<<;
+60;>>> DEFEND 60s <<<;
+0;>>> TELEPORT LASERS... <<<;

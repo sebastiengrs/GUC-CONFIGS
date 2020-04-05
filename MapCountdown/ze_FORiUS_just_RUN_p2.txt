@@ -1,0 +1,16 @@
+0;**Map by TheIceTiger!**;
+15;**Door to Tunnels opens in 15 seconds!**;
+25;**Survive for 25 seconds!**;
+0;**RUN!**;
+0;**RUN!!**;
+0;***Someone must make a climb!***;
+0;***Once someone makes the climb the elevator will be accessible!***;
+0;***Someone reached the top of the climb***;
+0;***Elevator doors open***;
+30;**Hold for 30 seconds!**;
+0;**Humans have reached the mine field!**;
+0;***Humans reached the vent thingies***;
+40;***Wait 40 seconds***;
+1;***LAST DOOR!!! HOLD 1 MINUTE!***;
+0;***NUKE LAUNCHED!!!***;
+0;***HOLD UNTIL DOOR CLOSES!!!***;
