@@ -1,6 +1,6 @@
-11;>>>ze_aragami_v1_1<<<;
+0;>>>ze_aragami_v1_1<<<;
 0;>>>Map by Qahnaarin<<<;
-2020;>>>GFL 2020 Unofficial Mapping Contest<<<;
+0;>>>GFL 2020 Unofficial Mapping Contest<<<;
 0;>>>Please enjoy<<<;
 40;>>>The door will open in 40s<<<;
 10;>>>The door will open in 10s<<<;

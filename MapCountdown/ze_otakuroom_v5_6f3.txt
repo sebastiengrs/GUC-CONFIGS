@@ -107,7 +107,7 @@
 0;**I was defeated, Impossible!**;
 30;**Flyer leaves in 30 seconds**;
 0;**[ZM]**;
-3;**Nuke in 3 mins**;
-2;**Nuke in 2 mins**;
-1;**Nuke in 1 min**;
+180;**Nuke in 3 mins**;
+120;**Nuke in 2 mins**;
+60;**Nuke in 1 min**;
 0;**You failed**;
