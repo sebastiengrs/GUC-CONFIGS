@@ -95,11 +95,11 @@
 0;** Get on the helicopter! It is leaving soon!! **;
 0;** VOICE: NOO! NOOO!! **;
 0;** Kill the remaining zombies **;
-1;** STAGE 1: Underground **;
+0;** STAGE 1: Underground **;
 0;** Ricochet - jump **;
 0;** Kill all weakened zombies **;
 15;** Hurry up! 15 seconds left **;
-2;** STAGE 2: Investigation **;
+0;** STAGE 2: Investigation **;
 20;** Pit is opening in 20s **;
 0;** Servant - defend zombies from now **;
 0;** Find another key item!! **;
@@ -115,11 +115,11 @@
 0;** Dancing Claw **;
 0;** Swallow **;
 0;** Force **;
-3;** ADMIN SELECTED STAGE 3 **;
+0;** ADMIN SELECTED STAGE 3 **;
 10;** Maze exit is opening in 10s **;
 0;** DODGE THE LASERS AND KILL THE BOSS **;
 0;** HE IS DEAD! RUN FOR YOUR LYFE! **;
-10005;** 1000 scores have been rewarded to those got in and survived lasers for more than 5 seconds **;
+0;** 1000 scores have been rewarded to those got in and survived lasers for more than 5 seconds **;
 0;** KILL IT BEFORE IT KILLS YOU **;
 0;** GET TO THE HELICOPTER NOW! **;
 0;** YOU HAVE BEATEN THE MAP **;
