@@ -140,3 +140,5 @@
 35;** Maze exit is opening in 35s **;
 0;** Zombie items are temporary disabled **;
 0;** Zombie items can be used again **;
+0;** You have failed to escape from the temple **;
+0;** You must kill the temple creature before it kills you **;

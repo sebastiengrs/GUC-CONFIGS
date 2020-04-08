@@ -87,3 +87,4 @@
 0;<< Larboard bombard S>>;
 0;<<bao collected>>;
 0;<<xin bao dao completed ,skin change and play animation next round>>;
+0;<<jiu deng le !>>;
