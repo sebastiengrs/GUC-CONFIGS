@@ -87,3 +87,13 @@
 0;**lower laser**;
 20;**Defend 20 second**;
 0;*** ZM INSIDE KILL HIM ***;
+35;**Defend 35s**;
+15;*** Defend 15 sec ***;
+12;**Door will Close 12 second**;
+15;**elevator will leave in 15 seconds**;
+15;**defend 15s**;
+0;**Teleport ZM**;
+0;**bloodsucker IS DEAD**;
+0;**Helicopter is going to the end of train, move on!**;
+25;**Helicopter leaving in 25 sec**;
+4;**Level 4 Win**;
