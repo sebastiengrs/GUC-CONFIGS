@@ -11,6 +11,6 @@
 0;**Humans have reached the mine field!**;
 0;***Humans reached the vent thingies***;
 40;***Wait 40 seconds***;
-1;***LAST DOOR!!! HOLD 1 MINUTE!***;
+60;***LAST DOOR!!! HOLD 1 MINUTE!***;
 0;***NUKE LAUNCHED!!!***;
 0;***HOLD UNTIL DOOR CLOSES!!!***;
