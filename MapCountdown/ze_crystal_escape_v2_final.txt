@@ -20,5 +20,5 @@
 0;**Push(Left)**;
 0;**Push(Right)**;
 0;**Zombie Win**;
-2;**Stage2 Win**;
+0;**Stage2 Win**;
 0;**Human Fail**;
