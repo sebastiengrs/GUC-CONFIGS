@@ -18,4 +18,4 @@
 0;<< DEFEND!!! >>;
 5;<< Bunker close in 5 seconds !!! >>;
 0;<< NUKE INCOMING!!! >>;
-4;<< Map made by Lup4n` >>;
+0;<< Map made by Lup4n` >>;
