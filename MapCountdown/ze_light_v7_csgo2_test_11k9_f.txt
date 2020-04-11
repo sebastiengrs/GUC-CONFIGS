@@ -4,8 +4,8 @@
 0;>>> FALL BACK <<<;
 35;>>> DEFEND 35s <<<;
 0;Map made by: Kappoochino;
-72;>>> Name Map: ze_light_v7_csgo2 <<<;
-10;>>> Teleport AFK 10s <<<;
+0;>>> Name Map: ze_light_v7_csgo2 <<<;
+0;>>> Teleport AFK 10s <<<;
 0;>>> Teleport AFK now... <<<;
 0;>>> TELEPORT <<<;
 35;>>> DEFEND 35s<<<;
@@ -19,7 +19,7 @@
 0;>>> TP, FALL BACK <<<;
 55;>>> DEFEND 55s <<<;
 5;>>> DEFEND 5s <<<;
-255;Special Thanks: ricca2554;
+0;Special Thanks: ricca2554;
 0;>>> VERY FAST TP ZOMBIES <<<;
 0;>>> Zombies TP <<<;
 15;>>> DEFEND 15s <<<<;

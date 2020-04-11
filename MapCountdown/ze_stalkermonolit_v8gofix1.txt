@@ -83,7 +83,7 @@
 0;**Door Close**;
 0;**Random Laser Monolit**;
 0;**upper laser**;
-2;**2 lasers**;
+0;**2 lasers**;
 0;**lower laser**;
 20;**Defend 20 second**;
 0;*** ZM INSIDE KILL HIM ***;
@@ -96,4 +96,4 @@
 0;**bloodsucker IS DEAD**;
 0;**Helicopter is going to the end of train, move on!**;
 25;**Helicopter leaving in 25 sec**;
-4;**Level 4 Win**;
+0;**Level 4 Win**;

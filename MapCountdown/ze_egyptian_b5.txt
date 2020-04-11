@@ -1,4 +1,4 @@
-1;Act-1 : The Path to the Underground!;
+0;Act-1 : The Path to the Underground!;
 0;Please hold on! we will welcome you shortly!;
 0;Welcome to Egypt!;
 0;be aware the quia ape is inside!;
@@ -13,8 +13,8 @@
 0;Door is opening!;
 30;Survive here for 30 Seconds to win!;
 0;Prepare for the god awaking!;
-1;Action - 1 Complete. Moving to Action - 2;
-2;Act-2 : The Underground!;
+0;Action - 1 Complete. Moving to Action - 2;
+0;Act-2 : The Underground!;
 30;Hold here for 30 Seconds!;
 10;Teleporting Zombies in 10 seconds!;
 50;Door opens in 50 Seconds!;
@@ -24,7 +24,7 @@
 0;SHOT WE DONT KNOW WHAT IS THIS;
 0;Failed;
 60;hold for 60 seconds till the door closes!;
-3;Act-3 : The Path to the Skyline!;
+0;Act-3 : The Path to the Skyline!;
 0;Path opens in a minute!;
 20;path opens in 20 Seconds;
 30;Way opens in 30 Seconds!;
@@ -34,7 +34,7 @@
 20;Door opens in 20 Seconds!;
 120;Sky Elevator leaves in 1.20 minutes.;
 20;Sky elevator leaves in 20 Seconds;
-4;Act-4 : The Skyline!;
+0;Act-4 : The Skyline!;
 40;Path opens in 40 seconds!;
 0;Hold here for a minute!;
 30;30! seconds! left!;

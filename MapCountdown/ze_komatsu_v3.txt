@@ -27,4 +27,4 @@
 0;***...***;
 0;***Komatsu has won***;
 0;***Thank you for playing***;
-11;***map by User1.1***;
+0;***map by User1.1***;

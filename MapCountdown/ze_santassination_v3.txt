@@ -368,7 +368,7 @@
 -1;|S#5|m125|b375|e500|r1000|;
 -1;|S#5|m125|b375|e500|r1000|;
 -1;|S#5|m125|b375|e500|r1000|;
-1;Type 1 if you are jerking it right now;
+0;Type 1 if you are jerking it right now;
 -1;|S#5|m125|b375|e500|r1000|;
 -1;|S#5|m125|b375|e500|r1000|;
 -1;|S#5|m125|b375|e500|r1000|;

@@ -44,4 +44,4 @@
 0;**Garage door is open!**;
 0;**Get into the tank to survive the meltdown!**;
 0;**Grab a Bizon from the crate!**;
-3;- Level 3 -;
+0;- Level 3 -;

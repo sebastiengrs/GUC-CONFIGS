@@ -85,6 +85,6 @@
 10;** WARMUP WILL END IN 10 SECONDS **;
 5;** WARMUP WILL END IN 5 SECONDS **;
 0;**ZOMBIE CURAGA WAS PICKED UP**(HEAL LEVEL 3)**;
-1;**Cactus found. The player who found it was given 1 level**;
+0;**Cactus found. The player who found it was given 1 level**;
 0;**Oh no the sword disappeared..We will be back there next time..**;
 0;**You are too slow..**;

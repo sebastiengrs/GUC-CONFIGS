@@ -59,4 +59,8 @@
 2;** 2 **;
 1;** 1 **;
 0;** IT'S TIME TO CHOOSE A LEVEL!!! **;
-25;[ADMIN ROOM] Level changed to 2. Kill all in 5 sec!;
+5;[ADMIN ROOM] Level changed to 1. Kill all in 5 sec!;
+5;[ADMIN ROOM] Level changed to 2. Kill all in 5 sec!;
+5;[ADMIN ROOM] Level changed to 3. Kill all in 5 sec!;
+5;[ADMIN ROOM] Level changed to 4. Kill all in 5 sec!;
+5;[ADMIN ROOM] Level changed to 5. Kill all in 5 sec!;

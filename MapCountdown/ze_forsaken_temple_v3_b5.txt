@@ -115,6 +115,8 @@
 0;** Dancing Claw **;
 0;** Swallow **;
 0;** Force **;
+0;** ADMIN SELECTED STAGE 1 **;
+0;** ADMIN SELECTED STAGE 2 **;
 0;** ADMIN SELECTED STAGE 3 **;
 10;** Maze exit is opening in 10s **;
 0;** DODGE THE LASERS AND KILL THE BOSS **;

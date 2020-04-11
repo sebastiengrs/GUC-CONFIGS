@@ -80,7 +80,7 @@
 0;** Mojonero's PenisGun has been picked up. **;
 0;*Speed weapon has been picked up. It grants a slight speed boost.*;
 0;*Heal has been picked up. Press +USE (E) to activate.*;
-90;*It has a 90 seconds cooldown.*;
+0;*It has a 90 seconds cooldown.*;
 0;*Ammo Box has been picked up. Press +USE (E) to activate.*;
 0;*Landmine picked up. Jump and press +USE (E) to activate.*;
 0;*The zombies are trying to get on our elevator. Shoot!!!*;

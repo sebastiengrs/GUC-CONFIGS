@@ -232,7 +232,7 @@
 0;**Falkner: Noctowl, use Zen Headbutt!;
 0;Cyrus: Honchkrow use Psychic;
 0;Cyrus: Honchkrow, use Roost!;
-500;Honchkrow has restored 500HP!;
+0;Honchkrow has restored 500HP!;
 0;Honchkrow has fainted;
 0;Cyrus: Go, Crobat!;
 0;Cyrus: Crobat use Antonish.;
@@ -241,7 +241,7 @@
 0;Cyrus: Crobat use Toxic.;
 0;Cyrus: Go, Weavile;
 0;Cyrus: Weavile use Beat Up.;
-500;Weavile has restored 500HP.;
+0;Weavile has restored 500HP.;
 0;Cyrus: Crobat, use Cross Venom.;
 0;Weavile has fainted.;
 0;Cyrus: I won't accept this! This can't be!;
@@ -278,10 +278,10 @@
 0;**Cyrus: Weavile, Night Slash Barrage**;
 0;**Cyrus: But you still have to deal with me**;
 0;**Cyrus has been defeated**;
-4;**LEVEL 4 COMPLETED**;
-100;**MAP BY LEVEL 100 CROBAT**;
+0;**LEVEL 4 COMPLETED**;
+0;**MAP BY LEVEL 100 CROBAT**;
 0;**SPECIAL THANKS: ANTITEAL**;
-5;**Level 5**;
+0;**Level 5**;
 60;**Teleporter will be activated in 60 seconds**;
 0;**The ramps to Spear Pilar are gone**;
 0;**Defend until something happens**;

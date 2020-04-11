@@ -1,4 +1,4 @@
-1;#Stage-1#;
+0;#Stage-1#;
 0;Map By Lord. Death.!;
 30;Door opens in 30 Seconds, Please hold!;
 10;Door Opens in 10 Seconds!;

@@ -1,4 +1,4 @@
-1;***STAGE 1***;
+0;***STAGE 1***;
 0;***White is Door and Wall***;
 10;***10 seconds***;
 0;***Thanks to Hestia, reflelia***;
@@ -16,9 +16,9 @@
 40;***40 seconds***;
 0;***Wood is a Trap***;
 0;***Defend this position***;
-1;***STAGE 1 Complete***;
+0;***STAGE 1 Complete***;
 0;***Map made by Kizan Flandre***;
-2;***STAGE 2***;
+0;***STAGE 2***;
 0;***Remember wood is a trap***;
 0;***Kill the boss in Two minutes***;
 0;***Zombies are coming from behind you***;
@@ -36,6 +36,6 @@
 0;***Triggered twice***;
 0;***FAIL***;
 0;***Protect the white cube***;
-2;***STAGE 2 Complete***;
+0;***STAGE 2 Complete***;
 0;***Thank you for playing***;
 0;***Map Reset***;

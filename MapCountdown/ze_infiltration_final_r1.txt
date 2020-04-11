@@ -30,4 +30,4 @@
 50;*** Find a spot and resist for 50 seconds ***;
 0;*** ZOMBIE SHORTCUT TELEPORT ACTIVATES IN 20 SECONDS ***;
 0;*** ZOMBIE SHORTCUT TELEPORT ACTIVATED ***;
-120;*** someone picked up the secret weapon (120 sec cooldown) ***;
+0;*** someone picked up the secret weapon (120 sec cooldown) ***;

@@ -5,8 +5,8 @@
 0;**[ice Laser]**;
 0;**Ice Ball**;
 0;**Wind[Backward]**;
-1;**Stage1 Complete**;
-2;**Stage2-Hard**;
+0;**Stage1 Complete**;
+0;**Stage2-Hard**;
 30;**Hold 30 second**;
 0;**Wind of Destruction**;
 0;**Burn of Wind**;
@@ -16,6 +16,6 @@
 0;**Flame Strike**;
 0;**Dance of Death**;
 0;**Zombie Have Escape**;
-2;**Stage2 Complete**;
+0;**Stage2 Complete**;
 0;**RTV**;
 0;**You Win**;

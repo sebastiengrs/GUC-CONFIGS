@@ -1,7 +1,7 @@
-1;<< Stage 1 >>;
+0;<< Stage 1 >>;
 0;<< Map by Misaka >>;
 0;<< special thanks to koyomaple and gneL>>;
-1;<< This is the final version of V1 >>;
+0;<< This is the final version of V1 >>;
 20;<< teleport will be enabled in 20 seconds >>;
 10;<< teleport will be enabled in 10 seconds >>;
 0;<< human teleported >>;
@@ -40,8 +40,8 @@
 0;<< dodge the laser !!! >>;
 0;<< more laser is coming !!! >>;
 0;<< up and down !!! >>;
-1;<< Stage 1 Complete >>;
-2;<< Stage 2 >>;
+0;<< Stage 1 Complete >>;
+0;<< Stage 2 >>;
 0;<< A player has picked up heal >>;
 0;<< a player has picked up wind >>;
 0;<< heal used >>;
@@ -74,8 +74,8 @@
 0;<< It's Misaka Again!!! >>;
 0;<< Shooting Misaka >>;
 25;<<You only have 25 seconds to get to the end >>;
-2;<< Stage 2 Complete >>;
-3;<< Stage 3 >>;
+0;<< Stage 2 Complete >>;
+0;<< Stage 3 >>;
 20;<< the fence will disappear in 20 seconds >>;
 15;<< hold for 15 seconds until the guards permit us to go >>;
 0;<< A player has got the letter M >>;
@@ -99,7 +99,7 @@
 0;<< Despair Pain >>;
 30;<< the final door will open in 30 seconds >>;
 0;<< A player has got a letter A >>;
-6;<< You've already got all 6 secret letters >>;
+0;<< You've already got all 6 secret letters >>;
 15;<< hold for 15 seconds >>;
 0;<< Do you think this is over? >>;
 0;<< ... >>;

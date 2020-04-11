@@ -189,7 +189,7 @@
 0;** Satan can summon Tornado Minions **;
 0;** Satan's Speed Increased **;
 0;** Satan control the Ice **;
-55;** 5 Zombies have Sacrificed to gift Satan 5 Special Powers **;
+0;** 5 Zombies have Sacrificed to gift Satan 5 Special Powers **;
 0;** Satan is immune to Grenades **;
 0;** Satan control the Electricity **;
 0;** Satan can summon Fire Minions **;

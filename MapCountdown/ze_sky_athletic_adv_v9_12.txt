@@ -458,7 +458,7 @@
 0;Girl CLOUD :Can't move finely !! Is engine colding !?;
 0;Girl CLOUD :Stop it !! Engine will be burning !!;
 0;*** WIND is too strong !! Bullets will be back !! ***;
-70;*** CRASHER HEALED 70 HP ***;
+0;*** CRASHER HEALED 70 HP ***;
 0;*** Character brok** a*d ano**er way o*****  ***;
 40;*** 40 ***;
 30;*** 30 ***;

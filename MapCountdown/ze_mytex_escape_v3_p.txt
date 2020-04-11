@@ -17,4 +17,4 @@
 30;*Light in 30 seconds!*;
 0;*Bigdoor is opening!*;
 0;*Finaldoor is opening!;
-10;*Light in 10 seconds!*;
+0;*Light in 10 seconds!*;

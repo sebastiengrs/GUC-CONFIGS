@@ -21,7 +21,7 @@
 0;>>> Stage2 <<<;
 15;>>> Left Door Opening in 15 Seconds <<<;
 0;>>> Player has picked up Ammo <<<;
-10;>>> AFK Teleport 10 Seconds <<<;
+0;>>> AFK Teleport 10 Seconds <<<;
 25;>>> Hold 25 Seconds <<<;
 0;>>> Troll is Coming <<<;
 0;>>> Troll has been Defeated <<<;

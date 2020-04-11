@@ -76,5 +76,7 @@
 0;** Again it comes a time to freely jump and just believe you can fly... **;
 0;** But beware! Perhaps only accurate faith will let you make it! **;
 0;** Map: 1 - People that make their mom ashamed with their stupidity: 0 **;
-30;** Map: 3 - People that make their mom ashamed with their stupidity: 0 **;
-50;** Map: 5 - People that make their mom ashamed with their stupidity: 0 **;
+0;** Map: 2 - People that make their mom ashamed with their stupidity: 0 **;
+0;** Map: 3 - People that make their mom ashamed with their stupidity: 0 **;
+0;** Map: 4 - People that make their mom ashamed with their stupidity: 0 **;
+0;** Map: 5 - People that make their mom ashamed with their stupidity: 0 **;

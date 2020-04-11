@@ -77,4 +77,4 @@
 25;*** 25 seconds left ***;
 0;*** Nice Job You Have Beaten FapEscape! ***;
 0;*** ZM ***;
-3;*** Survive for 3 Minutes ***;
+180;*** Survive for 3 Minutes ***;

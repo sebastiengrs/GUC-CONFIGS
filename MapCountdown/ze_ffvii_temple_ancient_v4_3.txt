@@ -35,8 +35,8 @@
 0;[AERIS] CLOUD GO TO A CRYSTAL;
 0;*** GG ***;
 0;*** ZOMBIE DETECTED ***;
-1;*** STAGE 1 WIN ***;
-2;*** STAGE 2 [NORMAL] ***;
+0;*** STAGE 1 WIN ***;
+0;*** STAGE 2 [NORMAL] ***;
 0;*** GAULLE HAS BEEN KILLED ***;
 15;*** DEFEND FOR 15sec ***;
 0;*** THE DOOR CAN'T OPEN IF YOU DON'T HAVE THE CRYSTAL ***;
@@ -55,10 +55,10 @@
 0;*** WAIT ***;
 0;*** Get on the ship ***;
 12;*** WAIT 12SEC ***;
-2;** STAGE 2 WIN **;
-1;*** STAGE 1 [EXTREME] ***;
-1;*** STAGE 1 WIN [EXTREME]***;
-2;*** STAGE 2 [EXTREME] ***;
+0;** STAGE 2 WIN **;
+0;*** STAGE 1 [EXTREME] ***;
+0;*** STAGE 1 WIN [EXTREME]***;
+0;*** STAGE 2 [EXTREME] ***;
 10;*** WAIT 10 SEC ***;
 5;*** WAIT 5 SEC ***;
 0;*** SEPHIROT USED HEAL ***;
@@ -71,4 +71,4 @@
 0;*** SEPHIROT ***;
 0;** MAP COMPLETED **;
 0;*** MAP COMPLETED ***;
-2;[ADMIN] LVL 2 EXTREME SET;
+0;[ADMIN] LVL 2 EXTREME SET;

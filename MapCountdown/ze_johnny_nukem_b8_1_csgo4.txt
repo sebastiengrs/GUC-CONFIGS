@@ -67,7 +67,7 @@
 0;**Fall back now!!**;
 20;**Don't let zombies get past the paper wall -- Defend!**;
 5;**Keep them off for 5 more seconds!**;
-12;**Stage 1 Complete!**Moving onto Stage 2**;
+0;**Stage 1 Complete!**Moving onto Stage 2**;
 0;**[Stage 2 - The Rebellion against the Frog (Lego) Kingdom MK. II]**;
 20;**The teleport pad will open in 20 seconds**;
 10;**The paper wall will disappear in 10 seconds**;

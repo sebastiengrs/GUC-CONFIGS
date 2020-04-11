@@ -112,7 +112,7 @@
 0;>>It's your chance. Kill the Songbird<<;
 0;>>>Congratulations<<;
 0;>>>Thank you for playing<<;
-3;***Plasmid upgraded: Insect Swarm 3***;
-2;***Plasmid upgraded: Winter Blast 2***;
-2;***Plasmid upgraded: Electro Bolt 2***;
-3;***Plasmid upgraded: Electro Bolt 3***;
+0;***Plasmid upgraded: Insect Swarm 3***;
+0;***Plasmid upgraded: Winter Blast 2***;
+0;***Plasmid upgraded: Electro Bolt 2***;
+0;***Plasmid upgraded: Electro Bolt 3***;

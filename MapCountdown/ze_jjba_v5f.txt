@@ -75,7 +75,7 @@
 0;*** Resetting the map!!***;
 0;*** Slay to Reset!***;
 25;Hold for 25 Seconds!;
-3;*** Stage 3 Compelete ***;
+0;*** Stage 3 Compelete ***;
 0;*** Moving to stage .........;
 0;*** To Be Continued ***;
 0;Secret Level Activated!;

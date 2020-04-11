@@ -191,7 +191,7 @@
 0;<== Current background music: taiwan_song richie jen look over here, girl ==>;
 0;<== Current background music: johnson lee + justin lo - way out (uu1r1)==>;
 0;<== The most recent version is in [ Mapeadores sever ] ==>;
-41;<== Current background music:cherry ngan - flash(ao4fu1)==>;
+0;<== Current background music:cherry ngan - flash(ao4fu1)==>;
 0;<== Noob down!==>;
 0;<== Current background music:snubbe teckentolkar i melodifestivalenn==>;
 0;<== How about shoot that wooden door? ==>;

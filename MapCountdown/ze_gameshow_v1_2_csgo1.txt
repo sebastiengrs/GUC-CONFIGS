@@ -73,7 +73,7 @@
 10;>>10 SECONDS UNTIL ELEVATOR LEAVES!<<;
 0;>>Zombies wait for teleport...<<;
 0;>>Parking garage zombie gate opened....<<;
-404;>>Hold for 40 seconds until C4 detonates!<<;
+40;>>Hold for 40 seconds until C4 detonates!<<;
 10;>>10 seconds left!!<<;
 30;>>Underground passage opening in 30 seconds<<;
 5;>>Passage opening in 5 seconds<<;

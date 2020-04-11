@@ -96,6 +96,7 @@
 0;>>NADE DO MORE DAMAGE<<;
 0;**Stage 2 has been chosen**;
 0;**Stage 3 has been chosen**;
+0;**Stage 4 has been chosen**;
 0;**Stage 1 has been chosen**;
 10;>>ALL THE CRYSTAL ACTIVATED , WAIT 10 SEC<<;
 30;>>THE DOOR BREAKING IN 30 SEC<<;
@@ -147,7 +148,7 @@
 0;>>RUN OUT OF HERE!!!<<;
 0;>>GET ON THE AIRSHIP!!!<<;
 5;>>THE AIRSHIP LEAVING IN 5 SEC<<;
-5;>>STAGE 5 COMPLETE<<;
+0;>>STAGE 5 COMPLETE<<;
 0;>>YOU HAVE CONQUERED THIS MAP<<;
 0;>>CONGRATULATION!!!<<;
 0;**Thanks Vauff for his suggestion**;

@@ -44,7 +44,7 @@
 15;**The ship will move in 15 seconds**;
 5;**Fall back! The ship will move in 5 seconds**;
 0;**Level changes to HARD**;
-2;**You completed Level 2**;
+0;**You completed Level 2**;
 25;**The bridge will open in 25 seconds**;
 10;*The doors will open in 10 seconds*;
 5;*The doors will open in 5 seconds*;

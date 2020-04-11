@@ -24,4 +24,4 @@
 50;***Nuke has been launched!! 50 seconds until explosion***;
 10;*** The helicopter will leave area in 10 seconds ***;
 10;*** 10 seconds until explosion ***;
-4;*** Map Made by Lup4n` ***;
+0;*** Map Made by Lup4n` ***;

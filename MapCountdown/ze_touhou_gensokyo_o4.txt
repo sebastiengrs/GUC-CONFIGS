@@ -9,11 +9,11 @@
 0;**tips:humans can type words in chat to play funny sounds,there are 25 to play**;
 0;**A player contribute and get a powerful item**;
 30;**survive 30s**;
-0;zombies teleport in 10sec;
+10;zombies teleport in 10sec;
 10;door open in 10sec;
 0;**lines27**;
 0;**lines28**;
-0;zombies tp in 10sec;
+10;zombies tp in 10sec;
 20;**hold 20sec**;
 35;library teleport enable in 35sec;
 0;the way was blocked,turn right;
@@ -21,7 +21,7 @@
 0;**lines7**;
 0;**lines8**;
 0;**lines9**;
-0;zombies teleport in middle in 10sec;
+10;zombies teleport in middle in 10sec;
 35;hold 35 s;
 15;hold 15sec;
 0;**lines10**;
@@ -31,7 +31,7 @@
 20;teleport in 20sec;
 30;hold 30sec;
 25;hold 25sec;
-0;zombies teleport in 15sec;
+15;zombies teleport in 15sec;
 37;hold in 37s;
 0;stay around the tree;
 10;**boss fight in 10sec**;
@@ -63,7 +63,7 @@
 0;**tips:A secret trigger when pressed three words in map**;
 0;**tips:zombies can press E on sheep to change model and have buff self only mother zombies **;
 0;**tips:humans can type words in chat to play funny sounds,there are display on board**;
-10;**Piano version has been abandoned, you can download b10p version to player it**;
+0;**Piano version has been abandoned, you can download b10p version to player it**;
 0;<<xin collected>>;
 25;glass door will break in 25s;
 0;<<Another way was opened be careful>>;
