@@ -55,3 +55,4 @@
 20;***Resist 20 seconds***;
 0;***DAMAGED REFLECTED***;
 0;***Reflection ended***;
+20;***Hold 20 seconds***;

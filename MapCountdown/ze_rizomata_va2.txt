@@ -43,3 +43,5 @@
 0;*** CURAGA ***;
 0;*** ZOMBIE KILLED PHILIA ***;
 0;*** STAGE FAILED ***;
+0;*** ZOMBIE GOT INSIDE THE LIFT ***;
+0;*** HOLY ***;

@@ -19,3 +19,6 @@
 0;**Stage2 Complete**;
 0;**RTV**;
 0;**You Win**;
+30;**Path will be opened in 30 seconds**;
+20;**Path will be opened in 20 seconds**;
+120;**You have 120 seconds to get out of here**;

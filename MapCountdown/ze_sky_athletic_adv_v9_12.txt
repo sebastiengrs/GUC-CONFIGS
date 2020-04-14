@@ -581,3 +581,10 @@
 5;*** Star road will activate in 5 seconds ***;
 0;Girl CLOUD :?? My machine is strong from wind!! that can't effect me !!;
 0;BOY CLOUD : What's this wind !? I can't do the best of speed !!;
+0;*** BURNING KEYBOARD ***;
+2;*** KEYBOARD CUTTER 2 ***;
+0;*** KEY METEOR ***;
+2;*** DRAIN KEYBOARD 2 ***;
+2;*** KEY METEOR 2 ***;
+0;CLOUD FATHER : You are our hero,thanks....;
+0;*** You have beaten all stages !!!! Congratulations !!!! ***;

@@ -117,3 +117,4 @@
 0;**Controller was picked up**;
 0;**There are zombies in. The level is failed.**;
 0;**There are zombies in bunker. The level is failed.**;
+0;**A PIECE OF FLESH GOT MAXIMUM POWER**;
