@@ -73,3 +73,5 @@
 0;>>Rotating stopped! Nice Job!<<;
 0;>>WATCH TOWER IS STILL ACTIVE! THROW A GRENADE!<<;
 0;>>Bridges disabled! Nice job<<;
+0;>>CTs took too long! Game over!<<;
+0;>>Zombies have infected the helicopter! Game-over!<<;
