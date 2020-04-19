@@ -22,3 +22,10 @@
 30;**Path will be opened in 30 seconds**;
 20;**Path will be opened in 20 seconds**;
 120;**You have 120 seconds to get out of here**;
+15;**Fence will break in 15 seconds**;
+20;**Defend for 20 seconds**;
+42;**Boss fight in 42 seconds**;
+150;**You have to defend for 150 seconds now**;
+25;**The doors will open in 25 seconds**;
+10;**Defend for 10 seconds**;
+12;**The doors will open in 12 seconds**;
